@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 RAG app template
 
 A simple Streamlit app template for you to modify!
 
